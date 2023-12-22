@@ -17,7 +17,6 @@
 
 - 🚀 **Empowering Future Game Developers:** UCLan Cyprus is committed to empowering students by providing real-world experience and exposure to cutting-edge technologies.
 
-
  
 # Culture:
 - 🎮 **Immersive Learning Experience:** Embedded within UCLan Cyprus Game Development culture for a dynamic educational journey.
@@ -33,8 +32,6 @@
 - 🚨 **Key Concepts Covered:** Responsibilities, roles, and processes crucial for game development. Foster a learning environment mirroring real-world challenges and expectations.
 
 - 🌈 **Cultivating Future Game Developers:** Nurturing a talent pool with hands-on experience and a deep understanding of the gaming industry.
-
-
 
 
 # Research Publications:
