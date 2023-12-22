@@ -1,3 +1,5 @@
+[![MasterHead](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)](https://www.uclancyprus.ac.cy/rays-and-vectors-game-studio/)
+
 # About:
 UCLan Cyprus in collaboration with the InSPIRE research centre proudly announce the development of the “Rays and Vectors” Game Studio, an in-house educational and student-led game studio providing a workplace simulation environment to help future game developers experience the needs and processes of the gaming industry, and help them develop the necessary skills to become highly skilled professional game developers.
 
