@@ -35,7 +35,6 @@
 
 
 # Research Publications:
-* Nisiotis, L. (2021). Utilising mobile game based learning methods effectively to support education. Educational Technology Research and Development, 69(1), 177-180. Springer US. [[Read Here]](https://link.springer.com/article/10.1007/s11423-020-09887-x)
 
 * Nisiotis, L., Hadjiliasi, A., Alexandrou, F., & Alboul, L. (2023). Interwoven Spaces with XR, AI, and Robots: Merging Realities in Space and Time. In Museums and Technologies of Presence (pp. 243-261). Routledge. [[Read Here]](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003334316-17/interwoven-spaces-xr-ai-robots-louis-nisiotis-aimilios-hadjiliasi-floris-alexandrou-lyuba-alboul)
 
@@ -48,3 +47,5 @@
 * Georgiou, Y., Souropetsis, M., Kyza, E. A., & Nisiotis, L. (2023). Investigating Students’ Immersion in Relation to Cultural Heritage Learning in a Virtual Reality Environment. In Proceedings of the 17th International Conference of the Learning Sciences-ICLS 2023 (pp. 1947-1948). International Society of the Learning Sciences. [[Read Here]](https://repository.isls.org/handle/1/10103)
 
 * Souropetsis, M., Kyza, E. A., Nisiotis, L., Georgiou, Y., & Giorgalla, V. (2023). Investigating Students' Motivation and Cultural Heritage Learning in a Gamified Versus Non-gamified VR Environment. [[Read Here]](https://clok.uclan.ac.uk/49519/)
+
+* Nisiotis, L. (2021). Utilising mobile game based learning methods effectively to support education. Educational Technology Research and Development, 69(1), 177-180. Springer US. [[Read Here]](https://link.springer.com/article/10.1007/s11423-020-09887-x)
