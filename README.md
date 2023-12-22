@@ -10,8 +10,10 @@ In this educational game studio, UCLan Cyprus Game Development students will hav
 The “Rays and Vectors” studio will be embedded into the culture of UCLan Cyprus Game Development students and integrated as part of their assessment(s). Students would be able to understand how a real game studio works, the responsibilities, roles, and requirements to produce high quality computer games. Students will be put into teams and build a student-led working environment, rotating through important roles and learning important concepts and processes. Using the state-of-the-art facilities of the InSPIRE centre, they will use the latest game engines and computer graphics software, version control, communication and collaboration tools, follow project management practices, meet deadlines and deliverables.
 
  
-
 The students will work under the supervision of doctoral students and UCLan Cyprus academic staff members and will be guided and receive feedback throughout their simulation journey.“
+
+
+
 
 # Research Publications:
 * Nisiotis, L. (2021). Utilising mobile game based learning methods effectively to support education. Educational Technology Research and Development, 69(1), 177-180. Springer US.
