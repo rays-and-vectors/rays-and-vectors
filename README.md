@@ -34,6 +34,26 @@
 - 🌈 **Cultivating Future Game Developers:** Nurturing a talent pool with hands-on experience and a deep understanding of the gaming industry.
 
 
+# Sample of Projects:
+* **Intelligent Virtual Museum powered by virtual Agents**
+  <img align="right" src="museum.png" width="400">
+  <br>
+  - Concept: Development of an Intelligent VR Museum to support cultural heritage and enhance user experience. 
+  - Research and implementation of Multi-Agent Game-AI Algorithms
+  - Use Photogrammetry to create Assets
+  - Development of an open-world game-like Virtual Environment (In the form of an open Terrain Museum)
+  - Find more about the project [here](https://www.youtube.com/watch?v=VicvmPAWn7k&ab_channel=Aimilios)
+  <br clear="right">
+
+* **Osiris: A Unity Game Engine Procedural Terrain Generation Tool**
+  <img align="right" src="museum.png" width="400">
+  <br>
+  - Concept: Development of a Tool to ease the design and development of Terrains, for unity game Engine.
+  - Algorithms Implemented as a part of the tool: Random Heighs Algorithmm, Load heights from SAR Algorithm, Voronoi Tesselation Algorithm, Perlin Noise Algorithm, Fractal Noise Algorithm, Multi Layer Perlin Noise Algorithm, Mid Point Displacement Algorithm
+  - Find more about the project [here](https://www.youtube.com/watch?v=W1zW2gb8Y6A&t=15s&ab_channel=Aimilios)
+  <br clear="right">
+
+
 # Research Publications:
 
 * Nisiotis, L., Hadjiliasi, A., Alexandrou, F., & Alboul, L. (2023). Interwoven Spaces with XR, AI, and Robots: Merging Realities in Space and Time. In Museums and Technologies of Presence (pp. 243-261). Routledge. [[Read Here]](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003334316-17/interwoven-spaces-xr-ai-robots-louis-nisiotis-aimilios-hadjiliasi-floris-alexandrou-lyuba-alboul)
