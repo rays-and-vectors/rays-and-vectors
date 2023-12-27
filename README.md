@@ -46,10 +46,10 @@
   <br clear="right">
 
 * **Osiris: A Unity Game Engine Procedural Terrain Generation Tool**
-  <img align="right" src="museum.png" width="400">
+  <img align="right" src="Osiris.png" width="400">
   <br>
-  - Concept: Development of a Tool to ease the design and development of Terrains, for unity game Engine.
-  - Algorithms Implemented as a part of the tool: Random Heighs Algorithmm, Load heights from SAR Algorithm, Voronoi Tesselation Algorithm, Perlin Noise Algorithm, Fractal Noise Algorithm, Multi Layer Perlin Noise Algorithm, Mid Point Displacement Algorithm
+  - Concept: Development of a Tool to ease the design and development of Terrains, for Unity game Engine.
+  - Algorithms Implemented as a part of the tool: Random height Algorithmm, Load heights from SAR Algorithm, Voronoi Tesselation Algorithm, Perlin Noise Algorithm, Fractal Noise Algorithm, Multi Layer Perlin Noise Algorithm, Mid Point Displacement Algorithm
   - Find more about the project [here](https://www.youtube.com/watch?v=W1zW2gb8Y6A&t=15s&ab_channel=Aimilios)
   <br clear="right">
 
