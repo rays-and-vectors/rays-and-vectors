@@ -40,6 +40,7 @@
   - Research and implementation of Multi-Agent Game-AI Algorithms
   - Use Photogrammetry to create Assets
   - Development of an open-world game-like Virtual Environment (In the form of an open Terrain Museum)
+  - **Developers: ** Aimilios Hadjiliasi, Floris Alexandrou
   - Find more about the project [here](https://www.youtube.com/watch?v=VicvmPAWn7k)
   <br clear="right">
 
@@ -48,6 +49,7 @@
   <br>
   - Concept: Development of a Tool to ease the design and development of Terrains, for Unity game Engine.
   - Algorithms Implemented as a part of the tool: Random height Algorithmm, Load heights from SAR Algorithm, Voronoi Tesselation Algorithm, Perlin Noise Algorithm, Fractal Noise Algorithm, Multi Layer Perlin Noise Algorithm, Mid Point Displacement Algorithm
+  - **Developer:** Aimilios Hadjiliasi
   - Find more about the project [here](https://www.youtube.com/watch?v=W1zW2gb8Y6A)
   <br clear="right">
 
