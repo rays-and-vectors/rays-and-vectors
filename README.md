@@ -44,6 +44,15 @@
   - Find more about the project [here](https://www.youtube.com/watch?v=VicvmPAWn7k)
   <br clear="right">
 
+* **The Elementalists - A fast pace 3D Action and Adventure game**
+  <img align="right" src="elementalists.png" width="400">
+  <br>
+  - **Concept and Gameplay:** The Elementalists’, is a fast-paced action/adventure 3D game featuring the story of 3 scientists, where each of them has experienced a tragic incident in their childhood as a result of hazards caused by human, and had to abandon their homes to save their lives. They later return as the ‘Elementalists’, an elite team who developed specialised weapons and a time machine that they can now use to teleport and relive their past to neutralise the disasters that ruined their homes. 
+  * **Genre:** Fast-paced action/adventure 3D game
+  - **Developer:** Nicolas Nouhi, Dimitris Dimitriou, Christoforos Nikolaou
+  - Find more about the project [here](https://www.youtube.com/watch?v=PH02a6VgNDI)
+  <br clear="right">
+
 * **Osiris: A Unity Game Engine Procedural Terrain Generation Tool**
   <img align="right" src="Osiris.png" width="400">
   <br>
@@ -61,6 +70,17 @@
   * **Gameplay:** Survive waves of zombie attacks in differen locations. Each round introduces difficulty with more zombies and diverse types. Players must strategically navigate the environment to find weapons, ammo and resourcces.
   - **Developer:** Dimitris Dimitriou
   - Find more about the project [here](https://www.youtube.com/watch?v=jCaFH9PhsMw)
+  <br clear="right">
+
+* **Hover Racing - A 3D racing game**
+  <img align="right" src="hoverracing.png" width="400">
+  <br>
+  - **Concept:** Development of 3D racing game.
+  * **Genre:** 3D Racing game
+  * **Gameplay:** A lap based 3D racing game where the player should compeat with 2 AI implemented NPC to win a race.
+  * **Features:** Player character controllers, Particle Systems, Game-AI, Racing game mechanics
+  - **Developer:** Panagiotis Hadjidemetriou
+  - Find more about the project [here](https://www.youtube.com/watch?v=fpntE0oM8lg)
   <br clear="right">
 
 # Research Publications:
