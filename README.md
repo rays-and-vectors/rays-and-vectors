@@ -36,23 +36,32 @@
 * **Intelligent Virtual Museum powered by virtual Agents**
   <img align="right" src="museum.png" width="400">
   <br>
-  - Concept: Development of an Intelligent VR Museum to support cultural heritage and enhance user experience. 
+  - **Concept:** Development of an Intelligent VR Museum to support cultural heritage and enhance user experience. 
   - Research and implementation of Multi-Agent Game-AI Algorithms
   - Use Photogrammetry to create Assets
   - Development of an open-world game-like Virtual Environment (In the form of an open Terrain Museum)
-  - **Developers: ** Aimilios Hadjiliasi, Floris Alexandrou
+  - **Developers:** Aimilios Hadjiliasi, Floris Alexandrou
   - Find more about the project [here](https://www.youtube.com/watch?v=VicvmPAWn7k)
   <br clear="right">
 
 * **Osiris: A Unity Game Engine Procedural Terrain Generation Tool**
   <img align="right" src="Osiris.png" width="400">
   <br>
-  - Concept: Development of a Tool to ease the design and development of Terrains, for Unity game Engine.
+  - **Concept:** Development of a Tool to ease the design and development of Terrains, for Unity game Engine.
   - Algorithms Implemented as a part of the tool: Random height Algorithmm, Load heights from SAR Algorithm, Voronoi Tesselation Algorithm, Perlin Noise Algorithm, Fractal Noise Algorithm, Multi Layer Perlin Noise Algorithm, Mid Point Displacement Algorithm
   - **Developer:** Aimilios Hadjiliasi
   - Find more about the project [here](https://www.youtube.com/watch?v=W1zW2gb8Y6A)
   <br clear="right">
 
+* **Rise of the Night - A zombie survival game**
+  <img align="right" src="riseofnight.png" width="400">
+  <br>
+  - **Concept:** Development of a round based zombie survival game.
+  * **Genre:** Round-based Zombie Survival
+  * **Gameplay:** Survive waves of zombie attacks in differen locations. Each round introduces difficulty with more zombies and diverse types. Players must strategically navigate the environment to find weapons, ammo and resourcces.
+  - **Developer:** Dimitris Dimitriou
+  - Find more about the project [here](https://www.youtube.com/watch?v=jCaFH9PhsMw)
+  <br clear="right">
 
 # Research Publications:
 
