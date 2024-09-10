@@ -53,6 +53,16 @@
   - Find more about the project [here](https://www.youtube.com/watch?v=PH02a6VgNDI)
   <br clear="right">
 
+* **Optical Illusions**
+  <img align="right" src="elementalists.png" width="400">
+  <br>
+  - **Concept and Gameplay:** Optical illusions challenge game developed by Konstantinos Elia as part of his BSc Computing final year project under the supervision of Dr Louis Nisiotis
+  * **Genre:** Optical Illusions/Puzzle
+  - **Developer:** Konstantinos Elia
+  - Find more about the project [here](https://youtu.be/XY6ImzWRF20)
+  <br clear="right">
+ 
+
 * **Osiris: A Unity Game Engine Procedural Terrain Generation Tool**
   <img align="right" src="Osiris.png" width="400">
   <br>
