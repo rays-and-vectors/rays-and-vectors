@@ -54,7 +54,7 @@
   <br clear="right">
 
 * **The Illusionist**
-  <img align="right" src="illusionist.png" width="400">
+  <img align="right" src="illusionist.PNG" width="400">
   <br>
   - **Concept and Gameplay:** Optical illusions challenge game developed by Konstantinos Elia as part of his BSc Computing final year project under the supervision of Dr Louis Nisiotis
   * **Genre:** Optical Illusions/Puzzle
