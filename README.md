@@ -87,7 +87,7 @@
 
 * Nisiotis, L., Hadjidemetriou, P. and Nouhi, N., 2024, June. Exploring the Time Dilation Gameplay in VR, and Its Effect on Presence, VR Sickness, and Performance. In 2024 IEEE Gaming, Entertainment, and Media Conference (GEM) (pp. 1-6). IEEE. [[Read Here]](https://ieeexplore.ieee.org/abstract/document/10585607/)
   
-* Nisiotis, Louis, Anna Anikina, and Marios Raspopoulos. "Exploring Gaming Technologies, Digital Twins, and VR to Visualise Wireless Propagation Simulations." 2024 IEEE 48th Annual Computers, Software, and Applications Conference (COMPSAC). IEEE, 2024. [[Read Here]]([https://ieeexplore.ieee.org/abstract/document/10585607/](https://ieeexplore.ieee.org/abstract/document/10633571)
+* Nisiotis, Louis, Anna Anikina, and Marios Raspopoulos. "Exploring Gaming Technologies, Digital Twins, and VR to Visualise Wireless Propagation Simulations." 2024 IEEE 48th Annual Computers, Software, and Applications Conference (COMPSAC). IEEE, 2024. [[Read Here]](https://ieeexplore.ieee.org/abstract/document/10633571)
 
 * Nisiotis, L., Piki, A., Theodorou, P., Leal, S., Barradas, L.C. and Nascimento, J.A., 2024, June. Evaluation of a Serious VR Game Designed to Promote the Sustainable Development Goals. In 2024 IEEE Gaming, Entertainment, and Media Conference (GEM) (pp. 1-6). IEEE. [[Read Here]](https://ieeexplore.ieee.org/abstract/document/10585543)
 
