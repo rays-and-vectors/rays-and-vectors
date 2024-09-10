@@ -85,6 +85,16 @@
 
 # Research Publications:
 
+* Nisiotis, L., Hadjidemetriou, P. and Nouhi, N., 2024, June. Exploring the Time Dilation Gameplay in VR, and Its Effect on Presence, VR Sickness, and Performance. In 2024 IEEE Gaming, Entertainment, and Media Conference (GEM) (pp. 1-6). IEEE. [[Read Here]](https://ieeexplore.ieee.org/abstract/document/10585607/)
+  
+* Nisiotis, Louis, Anna Anikina, and Marios Raspopoulos. "Exploring Gaming Technologies, Digital Twins, and VR to Visualise Wireless Propagation Simulations." 2024 IEEE 48th Annual Computers, Software, and Applications Conference (COMPSAC). IEEE, 2024. [[Read Here]]([https://ieeexplore.ieee.org/abstract/document/10585607/](https://ieeexplore.ieee.org/abstract/document/10633571))
+
+*Nisiotis, L., Piki, A., Theodorou, P., Leal, S., Barradas, L.C. and Nascimento, J.A., 2024, June. Evaluation of a Serious VR Game Designed to Promote the Sustainable Development Goals. In 2024 IEEE Gaming, Entertainment, and Media Conference (GEM) (pp. 1-6). IEEE. [[Read Here]](https://ieeexplore.ieee.org/abstract/document/10585543)
+
+* Nisiotis, L., 2024. Gaming to Learn: A Pilot Case Study on Students Acceptance of Playing Video Games as a Learning Method. EUROGRAPHICS 2024. [[Read Here]](https://diglib.eg.org/server/api/core/bitstreams/b7e9ad0c-fcac-44e5-b4fd-4647c6cc2457/content)
+
+* Souropetsis, M., Kyza, E.A., Georgiou, Y. and Nisiotis, L., 2024. Investigating students’ immersion, motivation and cultural heritage learning in gamified and non-gamified virtual reality environments. In Proceedings of the 18th International Conference of the Learning Sciences-ICLS 2024, pp. 1602-1605. International Society of the Learning Sciences. [[Read Here]](https://repository.isls.org/handle/1/10762)
+
 * Nisiotis, L., Hadjiliasi, A., Alexandrou, F., & Alboul, L. (2023). Interwoven Spaces with XR, AI, and Robots: Merging Realities in Space and Time. In Museums and Technologies of Presence (pp. 243-261). Routledge. [[Read Here]](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003334316-17/interwoven-spaces-xr-ai-robots-louis-nisiotis-aimilios-hadjiliasi-floris-alexandrou-lyuba-alboul)
 
 * Nisiotis, L., & Hadjiliasi, A. (2023). Work-in-Progress—Assessing the Feasibility of Playtesting Video Games Using Immersive Technologies as a Learning Method. Immersive Learning Research-Academic, 24-28. [[Read Here]](https://publications.immersivelrn.org/index.php/academic/article/view/75)
