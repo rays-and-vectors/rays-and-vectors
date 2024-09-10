@@ -44,6 +44,15 @@
   - Find more about the project [here](https://www.youtube.com/watch?v=VicvmPAWn7k)
   <br clear="right">
 
+* **Time Dilation Zombies**
+  <img align="right" src="timedilation.PNG" width="400">
+  <br>
+  - **Concept:** A fast paced VR shoot them up zombie survival game featuring the time dilation effect. The game was initially created as part of Nicolas's Nouhi final year dissertation project under the supervision of Dr Louis Nisiotis. The game was then transformed in VR implementing the Time Dilation feature. 
+  - **Developers:** Nicolas Nouhi, Louis Nisiotis
+  - Find more about the project [here](https://youtu.be/amVKiynchEA)
+  <br clear="right">
+  
+
 * **The Elementalists - A fast pace 3D Action and Adventure game**
   <img align="right" src="elementalists.png" width="400">
   <br>
