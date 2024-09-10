@@ -53,8 +53,8 @@
   - Find more about the project [here](https://www.youtube.com/watch?v=PH02a6VgNDI)
   <br clear="right">
 
-* **Optical Illusions**
-  <img align="right" src="elementalists.png" width="400">
+* **The Illusionist**
+  <img align="right" src="illusionist.png" width="400">
   <br>
   - **Concept and Gameplay:** Optical illusions challenge game developed by Konstantinos Elia as part of his BSc Computing final year project under the supervision of Dr Louis Nisiotis
   * **Genre:** Optical Illusions/Puzzle
